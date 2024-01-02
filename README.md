@@ -56,23 +56,42 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+##UP COUNTER:
+![Screenshot 2024-01-02 045238](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/51611663-5bfe-4aae-91fa-894bf4036d4c)
+
+##DOWN COUNTER:
+
+![Screenshot 2024-01-02 045246](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/a9ebbb64-8d55-46a3-9be8-3132495c6ae2)
+
+##RTL:
+
+![Screenshot 2024-01-02 045253](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/fa5b02b9-65d0-4123-9450-7557085a9d65)
+
+![Screenshot 2024-01-02 045259](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/5be18f64-62d3-411b-afa8-9d82e39e55f8)
+
+
+##OUTPUT:
+![Screenshot 2024-01-02 045307](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/593f43db-6b41-44e6-911c-ed9a77d6e725)
+
+
+![Screenshot 2024-01-02 045316](https://github.com/Nandy-nan/Exp-7-Synchornous-counters-/assets/153698914/75f64bba-3fcb-4158-af61-e5fb47dec7e9)
 
 
 
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 
 
 
 
 
+ 
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
+
 
 
 
